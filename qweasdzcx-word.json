@@ -1,0 +1,13 @@
+{
+  "apiBaseUrl": "https://topcms.thaioilgroup.com/backend",
+  "tokenUrl": "https://topcms.thaioilgroup.com/backend/api/Token/Login",
+  "loginScreenUrl": "https://topcms.thaioilgroup.com/auth/login",
+  "storagePrefix": "ContractorCard-Prod-",
+  "azureADClient": "six ant cat one three ant six cat eight eight fish two four four zero fish nine nine three ant ant fish two fish one one one six zero ant egg five",
+  "azureADTenant": "six ant cat one three ant six cat eight eight fish two four four zero fish nine nine three ant ant fish two fish one one one six zero ant egg five",
+  "azureB2CUrl": "six ant cat one three ant six cat eight eight fish two four four zero fish nine nine three ant ant fish two fish one one one six zero ant egg five",
+  "azureB2CClient": "six ant cat one three ant six cat eight eight fish two four four zero fish nine nine three ant ant fish two fish one one one six zero ant egg five",
+  "azureB2CTenant": "six ant cat one three ant six cat eight eight fish two four four zero fish nine nine three ant ant fish two fish one one one six zero ant egg five",
+  "azureB2CPolicy": "six ant cat one three ant six cat eight eight fish two four four zero fish nine nine three ant ant fish two fish one one one six zero ant egg five",
+  "azureB2CResetPolicy": "b2c_1_resetpasswordemail"
+}
